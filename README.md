@@ -99,11 +99,8 @@ int main() {
 ```
 
 # OUTPUT:
-
 # Symbol Found:
 ![symbol found](https://github.com/user-attachments/assets/404b3a32-ac48-4de5-9f2c-494ca147fccb)
-
-
 # Symbol Notfound:
 ![symbol not found](https://github.com/user-attachments/assets/9bb304e3-fb22-4ca3-b417-e945a346af5c)
 
